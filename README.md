@@ -11,7 +11,6 @@ Predict Loan Defaults: Use machine learning techniques to classify whether a loa
 Optimize Model Performance: Experiment with different models, address class imbalance, and improve predictions through fine-tuning.
 
 **Technical Approach**
-
 **Data Cleaning & Preprocessing**
 Handled missing values, outliers, and inconsistent data.
 Encoded categorical variables and normalized numerical features.
