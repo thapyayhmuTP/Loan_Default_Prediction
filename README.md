@@ -10,7 +10,7 @@ Analyze Borrower Trends: Identify key financial and demographic factors influenc
 Predict Loan Defaults: Use machine learning techniques to classify whether a loan is likely to default.
 Optimize Model Performance: Experiment with different models, address class imbalance, and improve predictions through fine-tuning.
 
-**Technical Approach**
+**Technical Approach** /n
 **Data Cleaning & Preprocessing**
 Handled missing values, outliers, and inconsistent data.
 Encoded categorical variables and normalized numerical features.
